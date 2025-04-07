@@ -22,7 +22,7 @@ Supervised machine learning algorithm used in NLP for classification and regress
 - [x] Spacy for Preprocessing Text
 - [ ] Vectorise features using TF-IDF
     - [x] Learn about how TF-IDF works
-    - [x] classifier: Logical Regression 
+    - [x] classifier: Logistic Regression 
 - [ ] Ensemble Models
     - [ ] Random Forest
     - [ ] CatBoost
