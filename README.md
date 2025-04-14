@@ -24,10 +24,10 @@ Ensemble models are a combination of multiple machine learning algorithms (examp
 - [x] Vectorise features using TF-IDF
     - [x] Learn about how TF-IDF works
     - [x] classifier: Logistic Regression 
-- [ ] Ensemble Models
+- [x] Ensemble Models
     - [x] Random Forest
     - [x] XGBoost
-    - [ ] CatBoost
+    - [x] CatBoost
 - [ ] StackingClassifier: Combining XGBoost + CatBoost under LogisticRegression
 - [ ] Jupyter notebook for presentation
 
